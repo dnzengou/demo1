@@ -1,0 +1,65 @@
+#s-1982dcfa-f7de-4388-91c5-372cecb522ce > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-1982dcfa-f7de-4388-91c5-372cecb522ce > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-1982dcfa-f7de-4388-91c5-372cecb522ce #s-Label_1 {
+  position: absolute;
+  top: 282px;
+  left: 0px;
+  width: 375px;
+  height: 41px;
+  background-color: #666666;
+  background-image: none;
+  opacity: 0.43;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 18.0pt;
+  font-family: Roboto-Light,Arial;
+}
+#s-1982dcfa-f7de-4388-91c5-372cecb522ce #s-Label_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-1982dcfa-f7de-4388-91c5-372cecb522ce #s-Label_1 span {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto-Light,Arial;
+  font-size: 18.0pt;
+}
+#s-1982dcfa-f7de-4388-91c5-372cecb522ce #s-Label_1 span#rtr-s-Label_1_0 {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto-Light,Arial;
+  font-size: 18.0pt;
+  line-height: 0px;
+}
+#s-1982dcfa-f7de-4388-91c5-372cecb522ce #s-Label_1 span#rtr-s-Label_1_1 {
+  color: #FFFFFF;
+  text-align: left;
+  text-decoration: none;
+  font-family: Roboto-Light,Arial;
+  font-size: 18.0pt;
+  line-height: 0px;
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-1982dcfa-f7de-4388-91c5-372cecb522ce > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

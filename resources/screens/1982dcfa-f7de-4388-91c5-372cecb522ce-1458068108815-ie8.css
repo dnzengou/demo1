@@ -1,0 +1,17 @@
+#s-1982dcfa-f7de-4388-91c5-372cecb522ce #s-Label_1 {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=43) ;
+  filter: alpha(opacity=43) ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-1982dcfa-f7de-4388-91c5-372cecb522ce > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
